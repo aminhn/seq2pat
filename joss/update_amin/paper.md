@@ -185,7 +185,7 @@ $$
 
 ## Multi-Valued Decision Diagrams
 
-A Multi-Valued Decision diagram (MDD) is layered directed acyclic graph. MDDs have been widely used to model the feasible solution set of discrete optimization problems and as efficient data structures for sequential data [see e.g., @wegener2000branching, @DBLP:series/aifta/BergmanCHH16][, @hosseininasab2019exact][, @DBLP:conf/aaai/HosseininasabHC19]. Here, we use MDDs to fully encode the sequences and associated attributes of sequence databases. We refer to this data structure as the _MDD_ _database_  
+A Multi-Valued Decision diagram (MDD) is layered directed acyclic graph. MDDs have been widely used to model the feasible solution set of discrete optimization problems and as efficient data structures for sequential data [see e.g., @wegener2000branching; @DBLP:series/aifta/BergmanCHH16; @hosseininasab2019exact; @DBLP:conf/aaai/HosseininasabHC19]. Here, we use MDDs to fully encode the sequences and associated attributes of sequence databases. We refer to this data structure as the _MDD_ _database_  
 
 ## Constraint-based SPM using MDDs
 
@@ -193,7 +193,7 @@ We incorporate constraints into the SPM algorithm in two steps. First, we impose
 
 # Alternative Approaches 
 
-ALthough a few python libraries exist for SPM [see e.g., @PrefixSpan-py, @pymining], to the best of our knowledge, Seq2Pat is the first Python library for constraint-based SPM. Other implementations of constraint-based SPM are mostly limited to a few constraint types, most commonly, gap, maximum span, and regular expression [see e.g. @aoga2016efficient].
+ALthough a few python libraries exist for SPM [see e.g., @PrefixSpan-py; @pymining], to the best of our knowledge, Seq2Pat is the first Python library for constraint-based SPM. Other implementations of constraint-based SPM are mostly limited to a few constraint types, most commonly, gap, maximum span, and regular expression [see e.g. @aoga2016efficient].
 
 
 # References
