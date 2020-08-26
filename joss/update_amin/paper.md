@@ -185,7 +185,7 @@ $$
 
 ## Multi-Valued Decision Diagrams
 
-A Multi-Valued Decision diagram (MDD) is layered directed acyclic graph. MDDs have been widely used to model the feasible solution set of discrete optimization problems and as efficient data structures for sequential data [see e.g., @wegener2000branching, @DBLP:series/aifta/BergmanCHH16, @hosseininasab2019exact, @DBLP:conf/aaai/HosseininasabHC19]. Here, we use MDDs to fully encode the sequences and associated attributes of sequence databases. We refer to this data structure as the _MDD_ _database_  
+A Multi-Valued Decision diagram (MDD) is layered directed acyclic graph. MDDs have been widely used to model the feasible solution set of discrete optimization problems and as efficient data structures for sequential data [see e.g., @wegener2000branching, @DBLP:series/aifta/BergmanCHH16][, @hosseininasab2019exact][, @DBLP:conf/aaai/HosseininasabHC19]. Here, we use MDDs to fully encode the sequences and associated attributes of sequence databases. We refer to this data structure as the _MDD_ _database_  
 
 ## Constraint-based SPM using MDDs
 
